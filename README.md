@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Shreya Kulkarni</h1>
-<h3 align="center">A passionate Computer Engineering student | Web Developer | Cloud Enthusiast</h3>
+<h1 align="center">Hi, I'm Shreya Kulkarni</h1>
+<h3 align="center">BTech Student | Software Developer | Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreya-kulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-kulkarni" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" alt="Girl Coding GIF">
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kulshreya03&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-kulkarni" />
+</p>
 
 ### 🌱 About Me
 
-- 🎓 I'm a 3rd-year B.Tech Computer Engineering student  
+- 🎓 B.Tech Computer Engineering student  
 - ☁️ AWS Certified Cloud Practitioner  
-- 👩‍💻 I’m currently working on **Angular + MERN stack projects**  
-- 🔐 Interested in Blockchain, Web3 Authentication, and Secure Access Systems  
-- 📫 Reach me at: **shreyakulkarni.dev@gmail.com**
+- 👩‍💻 I’m currently working on **Cloud + MERN stack projects**  
+- 🔐 Interested in Cloud Security, Software Development, and Secure Access Systems  
+- 📫 Reach me at: **kulkarnishreya04@gmail.com**
 
 ---
 
@@ -27,7 +29,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
@@ -35,11 +36,10 @@
 
 ### 🚀 Projects
 
-- 🌐 **RoamCast** - Weather web app with animated UI  
 - 📋 **Event Register** - MERN-based event attendance system  
 - 🔒 **Blockchain Access System** - Web3 Auth with Metamask + JWT  
-- 🛡 **IoT Gas Leakage Alert** - Raspberry Pi + MQ2 + wearable alert prototype  
-- 🧠 **Intrusion Detection System** - File integrity checking using MAC  
+- 🧠 **Intrusion Detection System** - File integrity checking using MAC
+- 🌐 **RoamCast** - Weather web app with animated UI  
 
 > 📌 Check out my pinned repos below for more!
 
@@ -48,22 +48,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreya-kulkarni&show_icons=true&theme=tokyonight" alt="Shreya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kulshreya03&show_icons=true&theme=tokyonight" alt="Shreya's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-kulkarni&theme=tokyonight" alt="Shreya's GitHub streak" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p>
-  <a href="https://linkedin.com/in/shreya-kulkarni" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shreyakulkarni.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulshreya03&theme=tokyonight" alt="Shreya's GitHub streak" />
 </p>
 
 ---
