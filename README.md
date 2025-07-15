@@ -1,13 +1,7 @@
-<h1 align="center">Hi, I'm Shreya Kulkarni</h1>
+<h1 align="center">Hi, I'm Shreya Kulkarni😊 </h1>
 <h3 align="center">BTech Student | Software Developer | Cloud Enthusiast</h3>
 
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" alt="Girl Coding GIF">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kulshreya03&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-kulkarni" />
-</p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="250" align="right" style="margin-left: 20px;" />
 
 ### 🌱 About Me
 
