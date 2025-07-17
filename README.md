@@ -5,10 +5,11 @@
 
 ### 🌱 About Me
 
-- 🎓 B.Tech Computer Engineering student  
+- 🎓 B.Tech Computer Engineering student
 - ☁️ AWS Certified Cloud Practitioner  
 - 👩‍💻 I’m currently working on **Cloud + MERN stack projects**  
-- 🔐 Interested in Cloud Security, Software Development, and Secure Access Systems  
+- 🔐 Interested in Cloud Security, Software Development, and Secure Access Systems
+- 🔗Portfolio: **https://shreya-builds.vercel.app/**  
 - 📫 Reach me at: **kulkarnishreya04@gmail.com**
 
 ---
